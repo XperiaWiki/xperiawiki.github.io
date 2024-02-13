@@ -1,0 +1,15 @@
+# 作者 1 （默认）
+ko:
+  name: 'Kenichi Oshima'
+  url: https://user.qzone.qq.com/2569356874
+  avatar: https://cdn.jsdelivr.net/gh/xperiawiki/xperiawiki.github.io/source/assets/avatar/ko-avatar.jpg
+  banner: https://cdn.jsdelivr.net/gh/xperiawiki/xperiawiki.github.io/source/assets/banner/ko-banner.jpg
+  description:
+
+# 作者 2
+eric:
+  name: 'Eric Close'
+  url: https://ericclose.github.io/
+  avatar: https://cdn.jsdelivr.net/gh/ericclose/cdn-assets/img/avatar.jpeg
+  banner: https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/001.jpg
+  description: 'Never really desperate, only the lost of the soul'

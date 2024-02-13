@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /tags/
+
+Sitemap: https://xperiawiki.github.io/sitemap.xml
