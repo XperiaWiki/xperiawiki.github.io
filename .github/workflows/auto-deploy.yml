@@ -14,10 +14,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           # If your repository depends on submodule, please see: https://github.com/actions/checkout
           submodules: recursive
-      - name: Use Node.js 18.12.x
+      - name: Use Node.js lts/Iron
         uses: actions/setup-node@v4
         with:
-          node-version: '18.12.x'
+          node-version: 'lts/Iron'
       - name: Cache NPM dependencies
         uses: actions/cache@v4
         with:
