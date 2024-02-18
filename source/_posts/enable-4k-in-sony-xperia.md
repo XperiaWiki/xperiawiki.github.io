@@ -92,7 +92,7 @@ su
 # 设置分辨率，请自行查找您设备的分辨率，Xperia 1 II 的分辨率为 1644x3840
 wm size 1644x3840
 
-# 设置 PPI，请自行查找您设备的 PPI，Xperia 1 II 的分辨率为 642
+# 设置 PPI，请自行查找您设备的 PPI，Xperia 1 II 的 PPI 为 642
 wm density 642
 ```
 
